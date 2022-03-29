@@ -3,6 +3,6 @@
 ## Name 
 Brandon Kanute
 
-## SKills
+## Skills
 
 'HTML' ,'JavaScript', 'CSS'
