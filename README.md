@@ -1,5 +1,7 @@
+> Write whatever you'll want to say!
+
 Hey what's up?
-Brandon is awesome 
+Brandon is awesome
 
 Ndishaw just made a change here.
 Ndishaw is me.
